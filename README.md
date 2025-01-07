@@ -1,7 +1,2 @@
-# hey
-this is mainly just for the "currentversion" file
-the game compares the "currentversion" raw text and the "currentversion" variable in game and if they are different a button appears to go to the itch.io page
-*so if you log of itch and lose your account you cant update the game*
-_lol_
-# seems like a
-*skill issue*
+#about
+this is mostly just for raw text the game needs to read, i dont know anything about actually coding so i barely know how to use github so gimme a minute
